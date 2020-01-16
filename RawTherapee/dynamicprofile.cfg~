@@ -1,0 +1,360 @@
+[rule 1]
+iso_min=0
+iso_max=512000
+fnumber_min=0
+fnumber_max=100
+focallen_min=0
+focallen_max=10000
+shutterspeed_min=0
+shutterspeed_max=1000
+expcomp_min=-20
+expcomp_max=20
+camera_enabled=true
+camera_value=SONY DSC-RX100M3
+lens_enabled=false
+lens_value=
+imagetype_enabled=false
+imagetype_value=
+profilepath=${U}/raw_base
+
+[rule 2]
+iso_min=125
+iso_max=125
+fnumber_min=0
+fnumber_max=100
+focallen_min=0
+focallen_max=10000
+shutterspeed_min=0
+shutterspeed_max=1000
+expcomp_min=-20
+expcomp_max=20
+camera_enabled=true
+camera_value=SONY DSC-RX100M3
+lens_enabled=false
+lens_value=
+imagetype_enabled=false
+imagetype_value=
+profilepath=${U}/iso125
+
+[rule 3]
+iso_min=160
+iso_max=160
+fnumber_min=0
+fnumber_max=100
+focallen_min=0
+focallen_max=10000
+shutterspeed_min=0
+shutterspeed_max=1000
+expcomp_min=-20
+expcomp_max=20
+camera_enabled=true
+camera_value=SONY DSC-RX100M3
+lens_enabled=false
+lens_value=
+imagetype_enabled=false
+imagetype_value=
+profilepath=${U}/iso160
+
+[rule 4]
+iso_min=200
+iso_max=200
+fnumber_min=0
+fnumber_max=100
+focallen_min=0
+focallen_max=10000
+shutterspeed_min=0
+shutterspeed_max=1000
+expcomp_min=-20
+expcomp_max=20
+camera_enabled=true
+camera_value=SONY DSC-RX100M3
+lens_enabled=false
+lens_value=
+imagetype_enabled=false
+imagetype_value=
+profilepath=${U}/iso200
+
+[rule 5]
+iso_min=250
+iso_max=250
+fnumber_min=0
+fnumber_max=100
+focallen_min=0
+focallen_max=10000
+shutterspeed_min=0
+shutterspeed_max=1000
+expcomp_min=-20
+expcomp_max=20
+camera_enabled=true
+camera_value=SONY DSC-RX100M3
+lens_enabled=false
+lens_value=
+imagetype_enabled=false
+imagetype_value=
+profilepath=${U}/iso250
+
+[rule 6]
+iso_min=310
+iso_max=330
+fnumber_min=0
+fnumber_max=100
+focallen_min=0
+focallen_max=10000
+shutterspeed_min=0
+shutterspeed_max=1000
+expcomp_min=-20
+expcomp_max=20
+camera_enabled=true
+camera_value=SONY DSC-RX100M3
+lens_enabled=false
+lens_value=
+imagetype_enabled=false
+imagetype_value=
+profilepath=${U}/iso320
+
+[rule 7]
+iso_min=400
+iso_max=400
+fnumber_min=0
+fnumber_max=100
+focallen_min=0
+focallen_max=10000
+shutterspeed_min=0
+shutterspeed_max=1000
+expcomp_min=-20
+expcomp_max=20
+camera_enabled=true
+camera_value=SONY DSC-RX100M3
+lens_enabled=false
+lens_value=
+imagetype_enabled=false
+imagetype_value=
+profilepath=${U}/iso400
+
+[rule 8]
+iso_min=500
+iso_max=500
+fnumber_min=0
+fnumber_max=100
+focallen_min=0
+focallen_max=10000
+shutterspeed_min=0
+shutterspeed_max=1000
+expcomp_min=-20
+expcomp_max=20
+camera_enabled=true
+camera_value=SONY DSC-RX100M3
+lens_enabled=false
+lens_value=
+imagetype_enabled=false
+imagetype_value=
+profilepath=${U}/iso500
+
+[rule 9]
+iso_min=640
+iso_max=640
+fnumber_min=0
+fnumber_max=100
+focallen_min=0
+focallen_max=10000
+shutterspeed_min=0
+shutterspeed_max=1000
+expcomp_min=-20
+expcomp_max=20
+camera_enabled=true
+camera_value=SONY DSC-RX100M3
+lens_enabled=false
+lens_value=
+imagetype_enabled=false
+imagetype_value=
+profilepath=${U}/iso640
+
+[rule 10]
+iso_min=800
+iso_max=800
+fnumber_min=0
+fnumber_max=100
+focallen_min=0
+focallen_max=10000
+shutterspeed_min=0
+shutterspeed_max=1000
+expcomp_min=-20
+expcomp_max=20
+camera_enabled=true
+camera_value=SONY DSC-RX100M3
+lens_enabled=false
+lens_value=
+imagetype_enabled=false
+imagetype_value=
+profilepath=${U}/iso800
+
+[rule 11]
+iso_min=1000
+iso_max=1000
+fnumber_min=0
+fnumber_max=100
+focallen_min=0
+focallen_max=10000
+shutterspeed_min=0
+shutterspeed_max=1000
+expcomp_min=-20
+expcomp_max=20
+camera_enabled=true
+camera_value=SONY DSC-RX100M3
+lens_enabled=false
+lens_value=
+imagetype_enabled=false
+imagetype_value=
+profilepath=${U}/iso1000
+
+[rule 12]
+iso_min=1250
+iso_max=1250
+fnumber_min=0
+fnumber_max=100
+focallen_min=0
+focallen_max=10000
+shutterspeed_min=0
+shutterspeed_max=1000
+expcomp_min=-20
+expcomp_max=20
+camera_enabled=true
+camera_value=SONY DSC-RX100M3
+lens_enabled=false
+lens_value=
+imagetype_enabled=false
+imagetype_value=
+profilepath=${U}/iso1250
+
+[rule 13]
+iso_min=1600
+iso_max=1600
+fnumber_min=0
+fnumber_max=100
+focallen_min=0
+focallen_max=10000
+shutterspeed_min=0
+shutterspeed_max=1000
+expcomp_min=-20
+expcomp_max=20
+camera_enabled=true
+camera_value=SONY DSC-RX100M3
+lens_enabled=false
+lens_value=
+imagetype_enabled=false
+imagetype_value=
+profilepath=${U}/iso1600
+
+[rule 14]
+iso_min=2000
+iso_max=2000
+fnumber_min=0
+fnumber_max=100
+focallen_min=0
+focallen_max=10000
+shutterspeed_min=0
+shutterspeed_max=1000
+expcomp_min=-20
+expcomp_max=20
+camera_enabled=true
+camera_value=SONY DSC-RX100M3
+lens_enabled=false
+lens_value=
+imagetype_enabled=false
+imagetype_value=
+profilepath=${U}/iso2000
+
+[rule 15]
+iso_min=2500
+iso_max=2500
+fnumber_min=0
+fnumber_max=100
+focallen_min=0
+focallen_max=10000
+shutterspeed_min=0
+shutterspeed_max=1000
+expcomp_min=-20
+expcomp_max=20
+camera_enabled=true
+camera_value=SONY DSC-RX100M3
+lens_enabled=false
+lens_value=
+imagetype_enabled=false
+imagetype_value=
+profilepath=${U}/iso2500
+
+[rule 16]
+iso_min=3200
+iso_max=3200
+fnumber_min=0
+fnumber_max=100
+focallen_min=0
+focallen_max=10000
+shutterspeed_min=0
+shutterspeed_max=1000
+expcomp_min=-20
+expcomp_max=20
+camera_enabled=true
+camera_value=SONY DSC-RX100M3
+lens_enabled=false
+lens_value=
+imagetype_enabled=false
+imagetype_value=
+profilepath=${U}/iso3200
+
+[rule 17]
+iso_min=4000
+iso_max=4000
+fnumber_min=0
+fnumber_max=100
+focallen_min=0
+focallen_max=10000
+shutterspeed_min=0
+shutterspeed_max=1000
+expcomp_min=-20
+expcomp_max=20
+camera_enabled=true
+camera_value=SONY DSC-RX100M3
+lens_enabled=false
+lens_value=
+imagetype_enabled=false
+imagetype_value=
+profilepath=${U}/iso4000
+
+[rule 18]
+iso_min=6400
+iso_max=6400
+fnumber_min=0
+fnumber_max=100
+focallen_min=0
+focallen_max=10000
+shutterspeed_min=0
+shutterspeed_max=1000
+expcomp_min=-20
+expcomp_max=20
+camera_enabled=true
+camera_value=SONY DSC-RX100M3
+lens_enabled=false
+lens_value=
+imagetype_enabled=false
+imagetype_value=
+profilepath=${U}/iso6400
+
+[rule 19]
+iso_min=8000
+iso_max=12800
+fnumber_min=0
+fnumber_max=100
+focallen_min=0
+focallen_max=10000
+shutterspeed_min=0
+shutterspeed_max=1000
+expcomp_min=-20
+expcomp_max=20
+camera_enabled=true
+camera_value=SONY DSC-RX100M3
+lens_enabled=false
+lens_value=
+imagetype_enabled=false
+imagetype_value=
+profilepath=${U}/iso6400

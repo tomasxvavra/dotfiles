@@ -1,0 +1,29 @@
+[Version]
+AppVersion=5.7
+Version=346
+
+[Impulse Denoising]
+Enabled=true
+Threshold=50
+
+[Directional Pyramid Denoising]
+Enabled=true
+Enhance=false
+Median=false
+Luma=47.880000000000003
+Ldetail=50
+Chroma=15.83
+Method=Lab
+LMethod=CUR
+CMethod=MAN
+C2Method=AUTO
+SMethod=shal
+MedMethod=soft
+RGBMethod=soft
+MethodMed=Lonly
+Redchro=8.3000000000000007
+Bluechro=-4.2000000000000002
+Gamma=1.7
+Passes=1
+LCurve=1;0;0.32022;0;0;1;0.10206;0;1;
+CCCurve=1;0.050000000000000003;0.5;0.34999999999999998;0.34999999999999998;0.34999999999999998;0.050000000000000003;0.34999999999999998;0.34999999999999998;
